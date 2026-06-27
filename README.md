@@ -21,7 +21,7 @@ It is designed to be self-hostable, extensible, and lightweight.
 
 | Repository                                      | Description                        |
 |-------------------------------------------------|------------------------------------|
-| [Server](https://github.com/kestrelchat/server) | Core backend monorepo (gateway, api) |
+| [Server](https://github.com/kestrelchat/dendryte) | Our own server implementation |
 | [Landing](https://github.com/kestrelchat/landing) | Our [Homepage](https://kestrel.chat/) |
 
 # Contribute
